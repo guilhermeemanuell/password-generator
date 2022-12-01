@@ -1,6 +1,6 @@
 # Password Generator
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.gif)
 
 Projeto desenvolvido a partir de uma aula do YouTube, canal "Coding Lab".
 
